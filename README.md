@@ -1,5 +1,10 @@
 # TicTacToe-using-MinMax-Algorithm
 
-This is a more rudimentary version of Tic-Tac_Toe. The game is played in the console by two agents (Player 1 and Player 2). Please get your console dirty by playing Tic-Tac-Toe.
+This is a rudimentary version of Tic-Tac_Toe. The game is played in the console by an artificial Agent and a player. Few stuffs like pattern matching has been used in this program ("match"). So I suggest using python 3.10 and above.
 
-A slightly improved version of Tic-Tac_Toe with Artificial agents using MinMax and Aplha Beta pruning will be uploaded soon.
+
+I used @javacodingcommunity code as an inspiration and made few changes so that it supports both minmax and alpha beta pruning.
+Ref: https://github.com/javacodingcommunity/TicTacToeAI-with-Minimax
+
+
+Please get your console dirty by playing Tic-Tac-Toe.
